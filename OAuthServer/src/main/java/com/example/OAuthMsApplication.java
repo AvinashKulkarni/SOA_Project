@@ -27,7 +27,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
 @SpringBootApplication
 @EnableDiscoveryClient // this will make a micro service register itself with
-						// config server
 public class OAuthMsApplication extends WebMvcConfigurerAdapter {
 
 	public static void main(String[] args) {
@@ -68,7 +67,7 @@ public class OAuthMsApplication extends WebMvcConfigurerAdapter {
 		@Bean
 		public JwtAccessTokenConverter jwtAccessTokenConverter() {
 			JwtAccessTokenConverter converter = new JwtAccessTokenConverter();
-			KeyPair keyPair = new KeyStoreKeyFactory(new ClassPathResource("jwt.jks"), "admin".toCharArray())
+			KeyPair keyPair = new KeyStoreKeyFactory(new ClassPathResource("jwt.jks"), "mySecretKey".toCharArray())
 					.getKeyPair("jwt");
 			converter.setKeyPair(keyPair);
 			return converter;

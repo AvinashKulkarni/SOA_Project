@@ -58,7 +58,7 @@ security:
 zuul:
   routes:
   #add microservices names and provide a path
-    manufacturer-microservices: /ms/*
+    manufacturer-microservices: /ms/**
     #Configure Oauth server
     oauth-server: 
      sensitive-headers: 
