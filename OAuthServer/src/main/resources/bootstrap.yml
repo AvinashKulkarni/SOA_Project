@@ -5,18 +5,20 @@ spring:
       uri: http://localhost:8001
       
   application:
-    name: OAuth-microservice
+    name: OAuth-Server
 
 ---    
 
 server:
-  port: ${PORT:${SERVER_PORT:0}}
+  port: 9999
+  context-path: /secured
   
----
-
-spring:
-  cloud:
-    consul:
-      discovery:
-        instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
-        health-check-interval: 10s
+security:
+  basic:
+    enabled: false
+  #user:
+    #password: password
+  ignored:
+    /css/**,/js/**,/favicon.ico,/webjars/**
+     
+   
