@@ -1,0 +1,20 @@
+package com.example.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.hateoas.Resources;
+
+import com.example.dao.ManufacturerFeignClient;
+import com.example.model.Manufacturer;
+
+public class ManufacturerServiceImpl implements ManufacturerService {
+
+	@Autowired
+	private ManufacturerFeignClient dao;
+	
+	@Override
+	public Resources<Manufacturer> findAll() {
+		
+		return null;
+	}
+
+}

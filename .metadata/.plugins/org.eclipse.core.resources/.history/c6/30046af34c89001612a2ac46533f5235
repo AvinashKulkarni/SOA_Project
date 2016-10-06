@@ -1,0 +1,15 @@
+package com.example.controller;
+
+import java.util.Calendar;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MyFirstController {
+
+	public String greet() {
+		Calendar calendar = Calendar.getInstance();
+		int hour = calendar.get(Calendar.HOUR_OF_DAY);
+		return (hour < 12) ? "Goor Morning" : "Good Afternoon";
+	}
+}

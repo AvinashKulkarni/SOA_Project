@@ -1,0 +1,22 @@
+---
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8001
+      
+  application:
+    name: rabbitmq-microservice
+
+---    
+
+server:
+  port: 7777
+  
+---
+
+spring:
+  cloud:
+    consul:
+      discovery:
+        instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+        health-check-interval: 10s

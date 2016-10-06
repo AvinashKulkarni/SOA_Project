@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="TurbineDashBoard"/>
+<aop-project name="ManufacturerMSLB"/>
+<aop-project name="ManufacturerCircuitBreaker">
+<aspect-definition advice-class-name="com.netflix.hystrix.contrib.javanica.aop.aspectj.HystrixCommandAspect" advice-method-name="methodsAnnotatedWithHystrixCommand(org.aspectj.lang.ProceedingJoinPoint)" advice-type="AROUND" aspect-end-line-number="-1" aspect-name="hystrixCommandAspect" aspect-start-line-number="-1" factory-id="org.springframework.ide.eclipse.aop.core.annotationAspectDefinitionElementFactory" file="/ManufacturerCircuitBreaker/src/main/java/com/example/ManufacturerMsCbApplication.java" pointcut-expression="hystrixCommandAnnotationPointcut() || hystrixCollapserAnnotationPointcut()" proxy-target-class="false">
+<aop-reference advice-type="AROUND" bean="1:BeansModel|2:ManufacturerCircuitBreaker|3:java:com.example.ManufacturerMsCbApplication|8:manufacturerServiceImpl:12" bean-file="/ManufacturerCircuitBreaker/src/main/java/com/example/service/ManufacturerServiceImpl.java" bean-start-line="12" factory-id="org.springframework.ide.eclipse.aop.core.aopReferenceElementFactory" file="/ManufacturerCircuitBreaker/src/main/java/com/example/ManufacturerMsCbApplication.java" source="=TurbineDashBoard/C:\/Users\/admin4\/.m2\/repository\/com\/netflix\/hystrix\/hystrix-javanica\/1.5.3\/hystrix-javanica-1.5.3.jar&lt;com.netflix.hystrix.contrib.javanica.aop.aspectj(HystrixCommandAspect.class[HystrixCommandAspect~methodsAnnotatedWithHystrixCommand~Lorg.aspectj.lang.ProceedingJoinPoint;" source-start-line="-1" target="=ManufacturerCircuitBreaker/src\/main\/java&lt;com.example.service{ManufacturerServiceImpl.java[ManufacturerServiceImpl~findAll" target-start-line="19"/>
+</aspect-definition>
+</aop-project>
+<aop-project name="ManufacturerMSFeignClient"/>
+<aop-project name="SpringDataRest"/>
+<aop-project name="springcloudconfigserver"/>
+<aop-project name="ManufacturerMSLBFeignClient"/>
+<aop-project name="ManufacturerMS1"/>
+<aop-project name="ManufacturerMSConsumer"/>
+</aop-reference-model>

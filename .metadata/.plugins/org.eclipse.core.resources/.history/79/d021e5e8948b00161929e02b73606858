@@ -1,0 +1,23 @@
+package com.example;
+
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@ConfigurationProperties(prefix="newConfig")
+@RefreshScope
+public class RabbitMqMicroService {
+
+	private String data;
+
+	public String getData() {
+		return data;
+	}
+
+	public void setData(String data) {
+		this.data = data;
+	}
+	
+	
+}
