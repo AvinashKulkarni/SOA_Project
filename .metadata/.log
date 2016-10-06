@@ -4621,3 +4621,69 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:04:05.805
 !MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:11.739
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:12.015
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:12.236
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:12.501
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:12.703
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:12.893
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:13.145
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:13.524
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:14.230
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:15.644
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:16.601
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:17.542
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:18.508
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:19.385
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:20.193
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:21.433
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2016-10-06 18:08:22.034
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:22.270
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:23.122
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:24.560
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:27.136
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-10-06 18:08:30.212
+!MESSAGE The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details

@@ -7389,3 +7389,114 @@ org.eclipse.core.runtime.CoreException: Launch configuration ManufacturerMs1Appl
 2016-10-06 18:03:30,453 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerCircuitBreaker\src\test\resources
 2016-10-06 18:03:48,801 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
 2016-10-06 18:04:05,805 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:11,739 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:12,015 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:12,236 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:12,501 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:12,703 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:12,893 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:13,145 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:13,524 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:14,230 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:14,312 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:14,313 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:14,318 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:14,320 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:14,321 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerCircuitBreaker\src\test\resources
+2016-10-06 18:08:15,644 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:15,677 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:15,677 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:15,678 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:15,680 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:15,680 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMS\src\test\resources
+2016-10-06 18:08:16,601 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:16,622 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:16,622 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:16,622 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:16,623 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:16,623 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMS1\src\test\resources
+2016-10-06 18:08:17,541 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:17,618 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:17,618 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:17,619 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:17,621 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:17,621 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSApiGateway\src\test\resources
+2016-10-06 18:08:18,508 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:18,542 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:18,542 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:18,543 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:18,544 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:18,544 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSConsumer\src\test\resources
+2016-10-06 18:08:19,385 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:19,417 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:19,417 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:19,418 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:19,420 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:19,420 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSFeignClient\src\test\resources
+2016-10-06 18:08:20,193 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:20,667 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:20,668 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:20,668 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:20,672 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:20,672 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSLB\src\test\resources
+2016-10-06 18:08:21,433 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:21,463 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:21,464 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:21,464 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:21,468 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:21,468 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSLBFeignClient\src\test\resources
+2016-10-06 18:08:22,270 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:22,316 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:22,316 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:22,316 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:22,317 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:22,317 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSRabbitMQ\src\test\resources
+2016-10-06 18:08:23,121 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:23,167 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:23,167 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:23,168 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2016-10-06 18:08:23,170 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:23,170 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\OAuthServer\src\test\resources
+2016-10-06 18:08:23,800 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:23,800 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-10-06 18:08:23,800 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 18:08:23,801 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:23,801 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\SpringDataRest\src\test\resources
+2016-10-06 18:08:24,559 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:24,587 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:24,587 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:24,588 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:24,589 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:24,589 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\TurbineDashBoard\src\test\resources
+2016-10-06 18:08:25,312 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:25,312 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-10-06 18:08:25,313 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 18:08:25,313 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:25,313 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\springcloudconfigserver\src\test\resources
+2016-10-06 18:08:27,136 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:27,160 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:27,161 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 18:08:27,161 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 18:08:27,162 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:27,162 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMS\src\test\resources
+2016-10-06 18:08:27,195 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:27,195 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 18:08:27,196 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 18:08:27,196 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:27,196 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\springcloudconfigserver\src\test\resources
+2016-10-06 18:08:30,212 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 18:08:30,258 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:30,260 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 18:08:30,260 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:30,263 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:30,263 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSApiGateway\src\test\resources
+2016-10-06 18:08:36,422 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:36,422 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 18:08:36,423 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:08:36,426 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:08:36,426 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSApiGateway\src\test\resources
+2016-10-06 18:09:11,841 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:09:11,841 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 18:09:11,842 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 18:09:11,844 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 18:09:11,844 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSApiGateway\src\test\resources
