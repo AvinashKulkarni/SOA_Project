@@ -1,0 +1,37 @@
+---
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8001
+      
+  application:
+    name: manufacturer-apigateway
+
+---    
+
+server:
+  port: 6666
+  
+---
+
+spring:
+  cloud:
+    consul:
+      discovery:
+        instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+        health-check-interval: 10s
+        
+---
+
+spring:
+  aop:
+    proxy-target-class: true
+    
+---
+
+zuul:
+  routes:
+    manufacturer-microservices: /ms/*
+    oauth-server: 
+     sensitive-headers: 
+     path: /secured/**

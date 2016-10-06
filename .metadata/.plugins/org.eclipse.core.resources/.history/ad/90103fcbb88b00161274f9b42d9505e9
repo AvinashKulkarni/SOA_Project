@@ -49,11 +49,9 @@ security:
           LkLYNaUXejOx+9NKQSmC3L9kVrz9Oqd/q96MEl4PEgwQYwK5VlIFNuuma9L5fi8N
           1KhvTLi/mP1XP7eLQZp8ByStugIc0Lgs69FWzdnm4+7FJORPh/vED0CB8YuTZ4Mk
           awIDAQAB
-          -----END PUBLIC KEY----- 
-      id: openId
-      serviceId: ${PREFIX:}resource   
+          -----END PUBLIC KEY-----  
     
-
+---
 
 zuul:
   routes:
