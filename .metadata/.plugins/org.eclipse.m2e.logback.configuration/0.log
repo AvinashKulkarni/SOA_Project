@@ -6679,3 +6679,142 @@ org.eclipse.core.runtime.CoreException: Launch configuration ManufacturerMs1Appl
 2016-10-06 12:43:30,165 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-processor/1.3.8.RELEASE/spring-boot-configuration-processor-1.3.8.RELEASE.jar
 2016-10-06 12:43:30,836 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-configuration-processor/1.3.8.RELEASE/spring-boot-configuration-processor-1.3.8.RELEASE.jar
 2016-10-06 12:43:31,176 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:03:38,500 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ManufacturerCircuitBreaker:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\ManufacturerCircuitBreaker\pom.xml.
+2016-10-06 14:03:38,930 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:03:39,057 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ManufacturerMS:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\ManufacturerMS\pom.xml.
+2016-10-06 14:03:39,185 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ManufacturerMS1:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\ManufacturerMS1\pom.xml.
+2016-10-06 14:03:39,307 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ManufacturerMSConsumer:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\ManufacturerMSConsumer\pom.xml.
+2016-10-06 14:03:39,383 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ManufacturerMSFeignClient:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\ManufacturerMSFeignClient\pom.xml.
+2016-10-06 14:03:39,502 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ManufacturerMSLB:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\ManufacturerMSLB\pom.xml.
+2016-10-06 14:03:39,614 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ManufacturerMSLBFeignClient:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\ManufacturerMSLBFeignClient\pom.xml.
+2016-10-06 14:03:39,712 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ManufacturerMSRabbitMQ:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\ManufacturerMSRabbitMQ\pom.xml.
+2016-10-06 14:03:39,807 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springcloudconfigserver:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\springcloudconfigserver\pom.xml.
+2016-10-06 14:03:39,960 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:springdatarest:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\SpringDataRest\pom.xml.
+2016-10-06 14:03:40,121 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:TurbineDashBoard:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\TurbineDashBoard\pom.xml.
+2016-10-06 14:03:42,109 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMSConsumer/src/main/java
+2016-10-06 14:03:42,110 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMSConsumer/src/main/resources
+2016-10-06 14:03:42,111 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMSConsumer/src/main/resources
+2016-10-06 14:03:42,113 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMSConsumer/src/test/java
+2016-10-06 14:03:42,394 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDataRest/src/main/java
+2016-10-06 14:03:42,395 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringDataRest/src/main/resources
+2016-10-06 14:03:42,397 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringDataRest/src/main/resources
+2016-10-06 14:03:42,399 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringDataRest/src/test/java
+2016-10-06 14:03:42,482 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcloudconfigserver/src/main/java
+2016-10-06 14:03:42,482 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springcloudconfigserver/src/main/resources
+2016-10-06 14:03:42,483 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springcloudconfigserver/src/main/resources
+2016-10-06 14:03:42,485 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springcloudconfigserver/src/test/java
+2016-10-06 14:03:42,560 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMSLB/src/main/java
+2016-10-06 14:03:42,560 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMSLB/src/main/resources
+2016-10-06 14:03:42,561 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMSLB/src/main/resources
+2016-10-06 14:03:42,563 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMSLB/src/test/java
+2016-10-06 14:03:42,678 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMSRabbitMQ/src/main/java
+2016-10-06 14:03:42,679 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMSRabbitMQ/src/main/resources
+2016-10-06 14:03:42,680 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMSRabbitMQ/src/main/resources
+2016-10-06 14:03:42,715 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMSRabbitMQ/src/test/java
+2016-10-06 14:03:43,534 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TurbineDashBoard/src/main/java
+2016-10-06 14:03:43,535 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TurbineDashBoard/src/main/resources
+2016-10-06 14:03:43,536 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TurbineDashBoard/src/main/resources
+2016-10-06 14:03:43,537 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TurbineDashBoard/src/test/java
+2016-10-06 14:03:43,803 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMSFeignClient/src/main/java
+2016-10-06 14:03:43,803 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMSFeignClient/src/main/resources
+2016-10-06 14:03:43,805 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMSFeignClient/src/main/resources
+2016-10-06 14:03:43,807 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMSFeignClient/src/test/java
+2016-10-06 14:03:43,992 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMSLBFeignClient/src/main/java
+2016-10-06 14:03:43,992 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMSLBFeignClient/src/main/resources
+2016-10-06 14:03:43,994 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMSLBFeignClient/src/main/resources
+2016-10-06 14:03:43,996 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMSLBFeignClient/src/test/java
+2016-10-06 14:03:44,132 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMS/src/main/java
+2016-10-06 14:03:44,133 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMS/src/main/resources
+2016-10-06 14:03:44,134 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMS/src/main/resources
+2016-10-06 14:03:44,137 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMS/src/test/java
+2016-10-06 14:03:44,291 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMS1/src/main/java
+2016-10-06 14:03:44,291 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMS1/src/main/resources
+2016-10-06 14:03:44,292 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerMS1/src/main/resources
+2016-10-06 14:03:44,294 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerMS1/src/test/java
+2016-10-06 14:03:44,380 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerCircuitBreaker/src/main/java
+2016-10-06 14:03:44,380 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerCircuitBreaker/src/main/resources
+2016-10-06 14:03:44,382 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ManufacturerCircuitBreaker/src/main/resources
+2016-10-06 14:03:44,384 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ManufacturerCircuitBreaker/src/test/java
+2016-10-06 14:03:44,575 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 11 project(s) in 7 sec
+2016-10-06 14:03:46,492 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:03:46,552 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:46,555 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:46,562 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:46,566 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:46,566 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerCircuitBreaker\src\test\resources
+2016-10-06 14:03:47,169 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:03:47,210 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:47,210 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:47,211 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:47,213 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:47,213 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMS\src\test\resources
+2016-10-06 14:03:47,748 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:03:48,390 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:48,390 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:48,391 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:48,393 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:48,393 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMS1\src\test\resources
+2016-10-06 14:03:48,774 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:03:48,805 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:48,805 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:48,805 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:48,807 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:48,807 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSConsumer\src\test\resources
+2016-10-06 14:03:49,486 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:03:49,515 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:49,515 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:49,516 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:49,517 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:49,517 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSFeignClient\src\test\resources
+2016-10-06 14:03:49,891 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:03:49,927 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:49,927 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:49,928 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:49,929 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:49,929 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSLB\src\test\resources
+2016-10-06 14:03:50,613 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:03:50,671 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:50,671 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:50,671 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:03:50,673 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:03:50,673 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSLBFeignClient\src\test\resources
+2016-10-06 14:04:00,114 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:04:00,138 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:04:00,138 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:04:00,138 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:04:00,140 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:04:00,141 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSRabbitMQ\src\test\resources
+2016-10-06 14:04:01,105 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:04:01,106 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-10-06 14:04:01,106 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 14:04:01,107 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:04:01,107 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\SpringDataRest\src\test\resources
+2016-10-06 14:04:02,002 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:04:02,030 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:04:02,030 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:04:02,031 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:04:02,032 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:04:02,032 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\TurbineDashBoard\src\test\resources
+2016-10-06 14:04:03,127 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:04:03,127 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-10-06 14:04:03,128 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 14:04:03,129 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:04:03,130 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\springcloudconfigserver\src\test\resources
+2016-10-06 14:05:09,049 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:05:09,049 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 14:05:09,050 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 14:05:09,051 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:05:09,051 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSRabbitMQ\src\test\resources
+2016-10-06 14:05:49,355 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ManufacturerMSRabbitMQ:0.0.1-SNAPSHOT @ D:\gitWorkSpace\SOA_Project\ManufacturerMSRabbitMQ\pom.xml.
+2016-10-06 14:05:49,574 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:05:50,124 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:05:50,124 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 14:05:50,124 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-10-06 14:05:50,125 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:05:50,125 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSRabbitMQ\src\test\resources
+2016-10-06 14:05:51,550 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.crashub:crash.shell:jar:1.3.2 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2016-10-06 14:05:51,629 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:05:51,630 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:05:51,630 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-10-06 14:05:51,632 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-06 14:05:51,632 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\gitWorkSpace\SOA_Project\ManufacturerMSRabbitMQ\src\test\resources
